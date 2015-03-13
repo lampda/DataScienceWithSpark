@@ -19,8 +19,11 @@ Inside the vagrant box execute
 /home/vagrant/startIpython.sh
 ```
   
-Navigate your regular browser to https://localhost:8888/
+Navigate your regular browser to: https://127.0.0.1:8888/
+
 The default password is 'science', feel free to change it by invoking the command (Inside the vagrant box)
 ```
 dst setup base
 ```
+
+For more documentation, feel free to visit the page of the original creators: http://datasciencetoolbox.org/
