@@ -1,9 +1,10 @@
 # DataScienceWithSpark
-Based on the hugely popular Data Science Toolbox, but with Apache Spark included
-To use just clone this repository with the VagrantFile.
+Based on the hugely popular Data Science Toolbox, but with Apache Spark included. To use just clone this repository to obtain the Vagrantfile.
 ```
 git clone https://github.com/choerst/DataScienceWithSpark.git
 ```
+
+For everything to work, you will need to install Vagrant (https://www.vagrantup.com/downloads.html) and Virtualbox (https://www.virtualbox.org/wiki/Downloads) on your machine.
 
 Navigate to the directory containing the VagrantFile and execute
 ```
